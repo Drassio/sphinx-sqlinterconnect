@@ -1,0 +1,9 @@
+.sql-query-container {
+    position: relative;
+}
+
+.sql-query-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
